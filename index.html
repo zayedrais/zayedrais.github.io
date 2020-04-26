@@ -1,0 +1,94 @@
+<!--Main Navigation-->
+<head>
+<!-- Font Awesome -->
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
+<!-- Google Fonts -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap">
+<!-- Bootstrap core CSS -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
+<!-- Material Design Bootstrap -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.16.0/css/mdb.min.css" rel="stylesheet">
+
+<!-- JQuery -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<!-- Bootstrap tooltips -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.4/umd/popper.min.js"></script>
+<!-- Bootstrap core JavaScript -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.4.1/js/bootstrap.min.js"></script>
+<!-- MDB core JavaScript -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.16.0/js/mdb.min.js"></script>
+<script
+      crossorigin="anonymous"
+      src="https://cdn.botframework.com/botframework-webchat/latest/webchat.js"></script>
+
+<style>
+#webchat {
+        height: 100%;
+        width: 100%;
+      }
+
+body {
+  background-color: #f1f5f5;
+}
+</style>
+</head>
+<header>
+
+    <nav class="navbar fixed-top navbar-expand-lg navbar-dark blue scrolling-navbar">
+        <a class="navbar-brand" href="#"><strong>Covid19 Bot</strong></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item active">
+                    <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+                </li>
+            </ul>
+            <ul class="navbar-nav nav-flex-icons">
+                <li class="nav-item">
+                    <a class="nav-link" href="https://github.com/zayedrais/Covid19Bot" target="_blank"><i class="fab fa-github"></i></a>
+                </li>
+		<li class="nav-item">
+                    <a class="nav-link" href="https://medium.com/@zayedrais" target="_blank" ><i class="fab fa-medium"></i></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://twitter.com/Zayedrais" target="_blank"><i class="fab fa-twitter"></i></a>
+                </li>
+                
+            </ul>
+        </div>
+    </nav>
+
+</header>
+<!--Main Navigation-->
+
+<!--Main Layout-->
+<main>
+    <div class="container" style="height:1300px;">
+        <div class="row mt-5 pt-5">
+            <div class="col text-center">
+<h2>Start bot, please reply with greets, say hi or other words</h2>
+                <div style="padding-center:20px; border-style: double;
+  border-color: black;" id="webchat" role="main"> </div>
+    <script>
+      window.WebChat.renderWebChat(
+        {
+          directLine: window.WebChat.createDirectLine({
+            token: 'd6bus1DOa_A.tqsMb3j5CA91OgT4sg-mCqeShqqaiLdGf_WIRy5361U'
+          }),
+          userID: '1',
+          username: 'Covid19',
+          locale: 'en-US',
+          botAvatarInitials: 'WC',
+          userAvatarInitials: 'WW'
+        },
+        document.getElementById('webchat')
+      );
+    </script>
+
+            </div>
+        </div>
+    </div>
+</main>
+<!--Main Layout-->
