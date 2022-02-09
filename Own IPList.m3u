@@ -1,0 +1,94 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Iqra TV" tvg-logo="https://iqra.tv/wp-content/uploads/2019/12/IQ-logo-light-120px.png" group-title="UK-Religious",BT- Iqra Tv
+https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="IPlus Tv" tvg-logo="" group-title="Religious",In- IPlus Tv
+https://5c75277727cd1.streamlock.net/iplustv/iplustv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ARY Qtv" tvg-logo="" group-title="PK-Religious",PK- ARY Qtv
+https://stream.arylive.com/aryqtv/myStream/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Peace TV Urdu" tvg-logo="" group-title="PK-Religious",PK- Peace TV Urdu
+http://199.223.252.162:8032/urdu_adaptive/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Win Channel" tvg-logo="" group-title="In-Religious",In- Win Channel
+https://m-c010-j2apps.s.llnwi.net/hls/7075.Wintech.in_480p/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Madani Channel Urdu" tvg-logo="" group-title="PK-Religious",PK- Madani Channel Urdu
+https://madnitv.vdn.dstreamone.net/madnitvurdu/madniurduabr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Eman tv" tvg-logo="" group-title="UK-Religious",BT- Eman tv
+https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Sharjah 2" tvg-logo="" group-title="UAE-Religious",UAE- Sharjah 2
+https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Huda Tv" tvg-logo="" group-title="En-Religious",EN- Huda Tv
+https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Al Quran Al Kareem TV (Mecca)" tvg-logo="" group-title="SA-Religious",SA- Al Quran Al Kareem TV (Mecca)
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Al Sunnah Al Nabawiyah TV (Medina)" tvg-logo="" group-title="SA-Religious",SA- Al Sunnah Al Nabawiyah TV (Medina)
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Zindagi tv" tvg-logo="" group-title="PK-Religious",BT- zindagi tv
+https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="British Muslim tv" tvg-logo="" group-title="BT-Religious",BT- British Muslim tv
+https://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Hum Tv" tvg-logo="" group-title="PK-Entertainment",PK- Hum 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ABP Hindi" tvg-logo="" group-title="IN-News",IN- ABP Hindi
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ABP Ganga" tvg-logo="" group-title="IN-News",IN- ABP Ganga
+https://abp-i.akamaihd.net/hls/live/796944/abpganga/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Ndtv India" tvg-logo="" group-title="IN-News",IN- ndtvindia
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Ndtv 24*7" tvg-logo="" group-title="IN-News",IN- Ndtv 24*7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Amar Ujala" tvg-logo="" group-title="IN-News",IN- Amar Ujala
+https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Indiatv" tvg-logo="" group-title="Movies",In- Indiatv
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live3/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Aaj Tak" tvg-logo="" group-title="Movies",In- Aaj Tak
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_5/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="news24" tvg-logo="" group-title="Movies",In- news24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DocuBay TV" tvg-logo="" group-title="Documentory",En- DocuBay TV
+https://docubayvh.s.llnwi.net/526a07ab-6ae7-4b6c-84a1-159791416484_1000004372_HLS/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="9XM" tvg-logo="" group-title="Music",IN- 9XM
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Bumblebee TV Now You Know" tvg-logo="" group-title="Education",En- Bumblebee TV Now You Know
+https://stitcheraws.unreel.me/wse-node01.powr.com/live/5b284f40d5eeee07522b775e/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Bumblebee TV PopCornFlix Action" tvg-logo="" group-title="Movies",En- Bumblebee TV PopCornFlix Action
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5d4b21643f4d602ba521b06c/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Bumblebee TV Mountain Live" tvg-logo="" group-title="Entertainmnet",En- Bumblebee TV Mountain Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Bumblebee TV Lake Live" tvg-logo="" group-title="Entertainmnet",En- Bumblebee TV Lake Live
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Bumblebee TV Docs Channel" tvg-logo="" group-title="Entertainmnet",En- Bumblebee TV Docs Channel
+https://0813a4e76b5d404a97a4070b8e087bc4.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5f8609d9d6344257cbfb6ee4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="" group-title="Movies",En- Cinemax
+http://23.237.202.43:7283/CINEMAX-FHD/index.m3u8?sn=Ux0Oojow5FkqHQCpMmUNQKUr4Wb&tm=1626349319&un=rommel07
+
+
